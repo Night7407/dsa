@@ -1,4 +1,5 @@
 
+
 import java.util.Arrays;
 
 public class leetcode2410 {
@@ -24,3 +25,4 @@ public class leetcode2410 {
     }
 
 }
+

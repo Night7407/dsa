@@ -1,3 +1,4 @@
+
 public class maxdiffarray {
     public static int maximumDifference(int[] nums){
         int max = Integer.MIN_VALUE;
@@ -23,3 +24,4 @@ public class maxdiffarray {
         System.out.println(maximumDifference(nums));
     }
 }
+

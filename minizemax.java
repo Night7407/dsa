@@ -1,4 +1,5 @@
 
+
 import java.util.Arrays;
 
 
@@ -46,4 +47,5 @@ public class minizemax{
         int  p =2;
         System.out.println(minimizeMax(nums, p));
     }
+
 }

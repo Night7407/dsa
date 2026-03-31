@@ -31,4 +31,5 @@ public class leetcode3477 {
         int baskets[] = {8,1};
         System.out.println(numOfUnplacedFruits(fruits, baskets));
     }
+
 }

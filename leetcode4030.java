@@ -4,13 +4,10 @@ public class leetcode4030 {
         StringBuilder sb = new StringBuilder();
         for(int i = 0;i<s.length();i++){
             int x = s.charAt(i);
-            System.out.println(x);
             sb.append("0");
             sb.append(Integer.toBinaryString(x));
             
         }
-
-        System.out.println(sb);
         String original = sb.toString();
         String reverse = sb.reverse().toString();
         

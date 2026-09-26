@@ -17,7 +17,6 @@ public class leetcode1807 {
                 int end = s.indexOf(')',i);
 
                 String toFind = s.substring(i+1, end);
-                System.out.println(toFind);
                 String value = map.getOrDefault(toFind, "?");
 
                 sb.append(value);
